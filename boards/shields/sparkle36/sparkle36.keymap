@@ -31,7 +31,7 @@
                 &trans    &trans  &trans          &trans  &trans         &trans     &trans    &kp UP    &kp LBKT   &kp RBKT   
                 &kp TAB   &trans  &trans          &trans  &trans         &kp EQUAL  &kp LEFT  &kp DOWN  &kp RIGHT  &kp SQT
                 &trans    &trans  &trans          &trans  &trans         &kp MINUS  &trans    &trans    &trans     &kp BSLH
-                                &kp C_VOL_DOWN    &trans  &trans         &trans     &trans    &trans     
+                                  &kp C_VOL_DOWN  &trans  &trans         &trans     &trans    &trans     
             >;        
         };
     };
