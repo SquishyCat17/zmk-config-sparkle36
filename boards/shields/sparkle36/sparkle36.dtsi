@@ -10,7 +10,7 @@
     chosen {
         zmk,physical-layout = &default_layout;
     };
-/ {
+  {
     physical_layout0: physical_layout_0 { // First physical layout, use different naming for other layouts
         compatible = "zmk,physical-layout";
         display-name = "Default Layout";
